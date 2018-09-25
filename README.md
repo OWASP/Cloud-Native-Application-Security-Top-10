@@ -4,7 +4,7 @@ Cloud native technologies empower organizations to build and run scalable applic
 
 The primary goal of this document is to provide assistance and education for organizations looking to adopt Cloud-Native Applications. The guide provides information about what are the most prominent security risks for Cloud-Native applications, the challenges involved, and how to overcome them.
 
-## Overview
+## Table of Contents
 * Forward
 * Introduction
 * Release notes
